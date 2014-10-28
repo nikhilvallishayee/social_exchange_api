@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: MyString
+  location_lat: 
+  location_long: 
+  online: false
+  status: MyString
+  experience_summary: MyText
+  skills_summary: MyText
+
+two:
+  name: MyString
+  location_lat: 
+  location_long: 
+  online: false
+  status: MyString
+  experience_summary: MyText
+  skills_summary: MyText
